@@ -1,4 +1,8 @@
+
+
+this is test commands. created by me sajjan
 git init
 git status
 git add
 git commit -m "git testing "
+git add .
