@@ -3,14 +3,16 @@
 this is test commands. created by me sajjan
 git init
 git status
-git add
-git commit -m "git testing "
 git add .
+git commit -m "git testing "
+
 
 git remote add origin https://github.com/sajjan1086/Report1.git
 git push - u origin master
 
 
 trdt
+sajjan
+sajjan
 
 
